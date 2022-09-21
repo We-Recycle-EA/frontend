@@ -202,6 +202,13 @@ label {
 button {
   border-radius: 0; }
 
+
+.logo{
+    width: 150px;
+    padding-left: 5%;
+}
+
+
 button:focus {
   outline: 1px dotted;
   outline: 5px auto -webkit-focus-ring-color; }
